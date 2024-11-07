@@ -1,0 +1,2 @@
+Nama : Iman Hilman
+Motivasi : Motivasi mengikuti kelas ini adalah untuk menambah wawasan baru dan memahami lebih dalam mengenai QA Automation. Penggunaan test tools lain diluar tools yang digunakan saat bekerja agar mampu lebih berkembang dalam segi pengetesan secara otomatis.
